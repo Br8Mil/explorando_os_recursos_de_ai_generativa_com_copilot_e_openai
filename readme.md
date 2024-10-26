@@ -1,7 +1,7 @@
-﻿**Curso do [DIO](https://web.dio.me) (BootCamp - Microsoft Azure AI Fundamentals)**
+﻿# **Curso do [DIO](https://web.dio.me) (BootCamp - Microsoft Azure AI Fundamentals)**
 
 
-Explorando os Recursos de IA Generativa com Copilot e OpenAI
+### **Explorando os Recursos de IA Generativa com Copilot e OpenAI**
 
 Links importantes:
 
@@ -13,15 +13,10 @@ Links importantes:
 
 <https://portal.vision.cognitive.azure.com/>
 
-Alguns prints:
+### **Alguns prints:**
 
-![](Aspose.Words.c9c8a038-9585-4b9a-be3f-2a3e9134af4b.001.png)
+![](/img/001.png)
 
-![](Aspose.Words.c9c8a038-9585-4b9a-be3f-2a3e9134af4b.002.png)
+![](/img/002.png)
 
-![](Aspose.Words.c9c8a038-9585-4b9a-be3f-2a3e9134af4b.003.png)
-
-
-
-
-
+![](/img/003.png)
